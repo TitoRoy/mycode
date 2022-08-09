@@ -97,8 +97,5 @@ while True:
             print('Can\'t get ' + move[1] + '!')
 
 
-cd ~/mycode/
-git add *
-git commit -m "Python and JSON practice, modeling with lists (arrays) and dicts (objects)"
-git push origin
+
 
